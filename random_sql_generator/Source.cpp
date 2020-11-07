@@ -53,6 +53,10 @@ int main() {
 		};
 		cout << ");" << endl;
 	};
+	string end;
+
+	cout << "Type 'x' and press enter to exit..." << endl;
+	cin >> end;
 
 	return 0;
 }
