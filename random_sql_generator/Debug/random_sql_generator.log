@@ -1,2 +1,4 @@
 ﻿  Source.cpp
+C:\Users\studio51\source\repos\random_sql_generator\random_sql_generator\Source.cpp(1644,1): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+C:\Users\studio51\source\repos\random_sql_generator\random_sql_generator\Source.cpp(20046,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   random_sql_generator.vcxproj -> C:\Users\studio51\source\repos\random_sql_generator\Debug\random_sql_generator.exe
